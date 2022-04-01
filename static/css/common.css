@@ -1,0 +1,23 @@
+#header {
+    background-color:white;
+}
+#menu {
+    background-color: mediumaquamarine;
+}
+#content {
+    background-color: blueviolet;
+}
+#footer {
+    background-color: gray;
+}
+body {
+    background-color: white;
+    margin: 0;
+}
+img {
+    max-inline-size: 100%;
+    block-size: auto;
+}
+a {
+    text-decoration: none;
+}
