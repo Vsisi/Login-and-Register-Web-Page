@@ -1,0 +1,17 @@
+{
+    "name": "Prototype",
+    "short_name": "Prototype",
+    "icons": [
+        {
+            "src": "icon.png",
+            "size": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "display": "standalone",
+    "theme_color": "green",
+    "background_color": "yellow",
+    "description": "Test PWA App",
+    "start_url": ".",
+    "scope": "."
+}
