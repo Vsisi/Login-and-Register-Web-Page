@@ -1,0 +1,9 @@
+#contentHeader {
+    background-color: antiquewhite;
+    padding: 0.8ch;
+}
+#uiNameContentHeader {
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
