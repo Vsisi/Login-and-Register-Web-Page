@@ -1,6 +1,0 @@
-@media (min-width:165ch) {
-    #main {
-        display: grid;
-        grid-template-columns: 1fr 4fr;
-    }
-}
