@@ -1,4 +1,4 @@
-# Login-and-Register-Page
+# Login-and-Register-Web-Page
 
 Archive  
 Responsive design of login, register and home page  
